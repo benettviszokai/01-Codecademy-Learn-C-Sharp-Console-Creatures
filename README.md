@@ -18,4 +18,3 @@ Make sure to use double quotes (") and a semicolon (;) like so:
 ```
 Console.WriteLine("This will be printed to the console!");
 ```
-
